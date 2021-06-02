@@ -1,4 +1,4 @@
-## description 
+## Description 
 
 Designing a Naïve Bayes classifier for filtering Spam and Ham (Normal) messages from my mail box and Make a comparative study on the performance of all the three models of Naïve Bayes classifiers that are Gaussian Discriminant Analysis, Multinomial Bernoullis Model and Multivariate Bernoullis Model. 
 
